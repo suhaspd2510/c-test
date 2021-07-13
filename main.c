@@ -1,6 +1,6 @@
 #include<stdio.h>
- main() {
+main() {
          biggest3();
          factorial();
-         //reverse();
+         reverse();
 }
